@@ -6,10 +6,10 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 - [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Screenshot
-![tribute-page](https://user-images.githubusercontent.com/74105412/123307321-fb421500-d53f-11eb-88b8-93e4455dcdc6.png)
 
 ## Links
 
@@ -19,12 +19,14 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 
 ## Built with
 
-- html
-- css
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
 
 ## What I learned
 
-- flexbox:
+# flexbox:
 ```html
     <div id="main">...</div>
 ```
@@ -35,7 +37,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
     }
 ```
 
-- hover Pseudo Class:
+# hover Pseudo Class:
 ```html
     <div id="button">...</div>
 ```
@@ -45,11 +47,14 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
     }
 ```
 
-- title attribute:
+# title attribute:
 ```html
     <a id="" href="" target="blank" title="wikipedia" decoration="none" >Read more</a>
 ```
 
+## useful resources
+- [flexbox](https://www.w3schools.com/csS/css3_flexbox.asp)
+- [title-attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title()
 ## Author
 
 - Website - [SAHIL NAZIR](https://www.sahilnazir.com)
