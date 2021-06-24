@@ -54,7 +54,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 
 ## useful resources
 - [flexbox](https://www.w3schools.com/csS/css3_flexbox.asp)
-- [title-attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title()
+- [title-attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title)
 ## Author
 
 - Website - [SAHIL NAZIR](https://www.sahilnazir.com)
