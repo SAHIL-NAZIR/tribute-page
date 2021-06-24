@@ -9,6 +9,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 - [Author](#author)
 
 ## Screenshot
+![tribute-page](https://user-images.githubusercontent.com/74105412/123307321-fb421500-d53f-11eb-88b8-93e4455dcdc6.png)
 
 ## Links
 
