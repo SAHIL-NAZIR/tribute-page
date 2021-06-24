@@ -19,12 +19,12 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 
 ## Built with
 
--html
+- html
 - css
 
 ## What I learned
 
-# flexbox:
+- flexbox:
 ```html
     <div id="main">...</div>
 ```
