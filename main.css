@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Habibi&display=swap');
+
+body{
+    background: #93A79B;
+}
+#main{
+    display: flex;
+    flex-flow: column nowrap;
+}
+.container{
+    display: flex;
+    margin-top: 60px;
+}
+.upper{
+    justify-content: center;
+    align-items: center;
+}
+.lower{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+#img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#image{
+    width: 100%;
+    height: auto;
+}
+#img-caption{
+    color: transparent;
+}
+#title-div{
+    text-align: center;
+}
+#title{
+    color: #000;
+    font-family: roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+}
+#info-div{
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: Habibi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+}
+#button{
+    width: 140px;
+    height: 35px;
+    margin-left: auto;
+    border-radius: 12px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+}
+#button:hover{
+    text-decoration: underline;
+}
+#tribute-link{
+    width: 137px;
+    height: 33px;
+    color: #000;
+    text-decoration: none;
+}
