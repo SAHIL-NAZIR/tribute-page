@@ -19,10 +19,8 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 
 ## Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-
+-html
+- css
 
 ## What I learned
 
