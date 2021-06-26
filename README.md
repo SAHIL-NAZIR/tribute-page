@@ -14,7 +14,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 ## Links
 
 - Solution URL: [github](https://github.com/SAHIL-NAZIR/tribute-page.git)
-- Live Site URL: [codepen](https://codepen.io/SAHIL-NAZIR/full/yLMQbjE)
+- Live Site URL: [gitpage](https://sahil-nazir.github.io/tribute-page/)
 
 
 ## Built with
