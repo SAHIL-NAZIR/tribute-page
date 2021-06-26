@@ -10,7 +10,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 - [Author](#author)
 
 ## Screenshot
-    ![preview screenshot](./screenshot.png)
+![preview screenshot](Screenshot.png)
 ## Links
 
 - Solution URL: [github](https://github.com/SAHIL-NAZIR/tribute-page.git)
