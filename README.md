@@ -26,7 +26,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
 
 ## What I learned
 
-# flexbox:
+### flexbox:
 ```html
     <div id="main">...</div>
 ```
@@ -37,7 +37,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
     }
 ```
 
-# hover Pseudo Class:
+### hover Pseudo Class:
 ```html
     <div id="button">...</div>
 ```
@@ -47,7 +47,7 @@ This is a solution to [FreeCodeCamp's project - a tribute page](https://www.free
     }
 ```
 
-# title attribute:
+### title attribute:
 ```html
     <a id="" href="" target="blank" title="wikipedia" decoration="none" >Read more</a>
 ```
